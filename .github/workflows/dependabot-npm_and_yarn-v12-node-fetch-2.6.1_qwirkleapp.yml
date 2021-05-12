@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'qwirkleapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c474c9f67ed345ce8ed34f4d1cde805b }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1c1121bde55f4e3abb64c253a8495089 }}
         package: .
